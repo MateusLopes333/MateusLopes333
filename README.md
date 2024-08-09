@@ -3,7 +3,7 @@
 - ✨ @matt13teus
 
   
-![](https://tenor.com/64vt.gif)
+![gif](https://tenor.com/64vt.gif)
 
 <!---
 MateusLopes333/MateusLopes333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
